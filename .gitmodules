@@ -1,0 +1,3 @@
+[submodule "disk_failure_prediction"]
+	path = disk_failure_prediction
+	url = https://github.com/SidiLu001/disk_failure_prediction.git
